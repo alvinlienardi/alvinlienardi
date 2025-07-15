@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 🔥 My GitHub Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=alvinlienardi&show_icons=true&theme=graywhite)<br/>
+![](https://github-readme-stats.vercel.app/api?username=alvinlienardi&show_icons=true&theme=dark&rank_icon=github)<br/>
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
